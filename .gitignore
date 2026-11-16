@@ -6,3 +6,14 @@ output
 data
 pretrain
 CRF
+# Runtime, logs & scratch archives
+*.tar.gz
+*.zip
+*.log
+env.sh
+run_all_diagnosis.sh
+diagnosis_results/
+diagnosis_clusters/
+outputs/
+understand/
+understand*/

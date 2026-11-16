@@ -1,0 +1,10 @@
+reason,all,small,medium,large
+no_candidate_anywhere,0.0015,0.0198,0.0000,0.0000
+mixed_cluster,0.1934,0.6058,0.3020,0.0864
+not_candidate,0.1391,0.0968,0.1170,0.1556
+seed_rejected,0.0000,0.0000,0.0000,0.0000
+negative_cross,0.0000,0.0000,0.0000,0.0000
+negative_intra,0.0000,0.0000,0.0000,0.0000
+low_cross,0.2608,0.1091,0.2776,0.2716
+low_intra,0.0798,0.0146,0.0250,0.1158
+low_area,0.3253,0.1539,0.2785,0.3706

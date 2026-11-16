@@ -1,0 +1,5 @@
+scope,patch grid,best clusters,best candidate clusters,best alpha on S_k,INSID3
+all,97.78,88.00,87.05,73.34,66.98
+small,91.31,62.07,61.51,54.28,53.05
+medium,95.63,72.22,71.86,63.18,57.21
+large,98.01,89.18,88.13,76.05,67.28
